@@ -1,4 +1,4 @@
-# Original Prusa MINI / MINI+
+# Perseus Pro MK1/MK1 Extended
 
 This repository contains resources and documentation for printed and mechanical parts of the printer.
 
