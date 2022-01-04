@@ -2,6 +2,11 @@
 
 This repository contains resources and documentation for printed and mechanical parts of the printer.
 
+**MK1**
+ * Z height: 250mm
+
+**MK1 Extended**
+ * Z height: 350mm
 
 **Links**
 
