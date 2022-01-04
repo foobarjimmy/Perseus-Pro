@@ -1,4 +1,4 @@
-**PRINTED PARTS**
+**ELECTRICAL PARTS**
 |Name|Qty|
 |:---------------|:---:|
 |Perseus-hemera-mount|1|
