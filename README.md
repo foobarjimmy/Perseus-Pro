@@ -21,5 +21,5 @@ This repository contains resources and documentation for printed and mechanical 
 
 
 <p align="center">
-  <img src="DOCUMENTATION/OSHW_CZ000002.png" align="right" width="100" title="OSHW logo">
+  <img src="https://media.prusaprinters.org/media/prints/93367/images/962427_e1bcec6f-7c7f-407c-af85-4e8f866fd96f/thumbs/cover/1280x960/png/large_display_photo_93367.webp" align="right" width="100" title="Perseus logo">
 </p>
