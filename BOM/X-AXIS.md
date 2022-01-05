@@ -1,3 +1,5 @@
+![x-axis](img/x-axis.png?raw=true "x-axis")
+
 **PRINTED PARTS**
 |Name|Qty|
 |:---------------|:---:|
